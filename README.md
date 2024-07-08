@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm SHAWON</h1>
+<h3 align="center">Evolving Architect of Code | Sculpting Digital Realms from Enchanting Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawonkst21&label=Profile%20views&color=0e75b6&style=flat" alt="shawonkst21" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shawon_sust21" target="blank"><img src="https://img.shields.io/twitter/follow/shawon_sust21?logo=twitter&style=for-the-badge" alt="shawon_sust21" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA_team_project_space_Shooterr**
+- 🔭 I’m currently working on **JAVA_team_project_space_Shooter**
 
 - 🌱 I’m currently learning **DSA,Core java**
 
-- 💬 Ask me about **C,CPP,JAVA**
+- 👨‍💻 All of my projects are available at [https://github.com/shawonkst21?tab=repositories](https://github.com/shawonkst21?tab=repositories)
+
+- 💬 Ask me about **C,CPP,JAVA,Data structure**
 
 - 📫 How to reach me **sadmanshawonkst10@gmail.com**
 
@@ -20,6 +24,10 @@
 <a href="https://twitter.com/shawon_sust21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shawon_sust21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadman-shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-shawon" height="30" width="40" /></a>
 <a href="https://fb.com/sadman shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadman shawon" height="30" width="40" /></a>
+<a href="https://instagram.com/shawon.sadman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shawon.sadman" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shawon56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shawon56" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/noob_master07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/noob_master07" height="30" width="40" /></a>
+<a href="https://discord.gg/shawon3088o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shawon3088o" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
