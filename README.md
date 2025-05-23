@@ -3,7 +3,6 @@
 <h3 align="center">Crafting Code, Creating Legacy | One Project at a Time
 
 </h3>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawonkst21&label=Profile%20views&color=0e75b6&style=flat" alt="shawonkst21" /> </p>
 
